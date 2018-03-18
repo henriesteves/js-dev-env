@@ -1,0 +1,16 @@
+npm i
+
+#nsp - Node Security helps you keep your node applications secure
+npm i -g nsp
+nsp check
+
+# Sharing Work in Progress
+## - localtunnel - ngrok - now - Surge
+### localtunnel
+npm install -g localtunnel
+lt --port 8000
+
+# npm scripts
+https://docs.npmjs.com/misc/scripts
+npm start
+npm run share
